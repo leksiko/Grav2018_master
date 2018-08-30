@@ -1,0 +1,19 @@
+{
+  "logger": {
+    "title": "Remote Sync"
+  },
+  "uploadOnSave": false,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "la02.neti.ee",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "25827656",
+  "password": "Konn4321!",
+  "watch": [],
+  "transport": "ftp",
+  "target": "/openoffice/grav",
+  "port": "21"
+}
